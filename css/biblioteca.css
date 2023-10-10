@@ -1,0 +1,90 @@
+body {
+    background-color: #E0FFFF;
+}
+h1 {
+    margin-left: 50px;
+    margin-bottom: 0;
+    font-family: "Verdana", sans-serif;
+    color: #008080; 
+}
+h2.subt{
+    margin-left: 50px;
+    margin-top: -70px;
+    margin-bottom: 70px;
+    font-family: "Verdana", sans-serif;
+    color: #008080; 
+}
+img.logo {
+    margin-top: -40px;
+    margin-bottom: 25px;
+    margin-left: 1200px;
+}
+.menu{
+    font-family: "Verdana", sans-serif; 
+    list-style:none;
+    float:left;
+    margin-left: 50px;
+}
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        width: 200px;
+        background-color: #20B2AA;
+    }   
+      li a {
+        display: block;
+        color: white;
+        padding: 8px 16px;
+        text-decoration: none;
+      }
+      li a:hover {
+        background-color:#008080;
+        color: white;
+      }
+article {
+    font-family: "Verdana", sans-serif;
+    color: #363636;
+    float: left;
+    padding: 30px;
+    width: 70%;
+    background-color: white;
+    height: 600px; 
+    text-align: justify;
+    line-height: 1.5;
+}
+
+input.btnsup {
+    margin-left: 1300px; 
+    margin-top: 10px;
+    background: #48D1CC;
+    color: white;
+    border-radius: 20px;
+    border-color: #48D1CC;
+    height: 25px;
+    width: 105px;
+    cursor: pointer;
+}
+input.btnshow {
+    margin-left: 1300px;
+    margin-top: 10px;
+    background: #48D1CC;
+    color: white;
+    border-radius: 20px;
+    border-color: #48D1CC;
+    height: 25px;
+    width: 105px;
+    cursor: pointer;
+}
+input.btninf {
+    margin-left: 250px; 
+    margin-top: 20px;
+    margin-bottom: 40px;
+    background: #20B2AA;
+    color: white;
+    border-radius: 20px;
+    border-color: #20B2AA;
+    height: 40px;
+    width: 250px;
+    cursor: pointer;
+}

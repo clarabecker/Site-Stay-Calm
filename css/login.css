@@ -1,0 +1,50 @@
+body {
+    background-color: #E0FFFF;
+}
+h1, h2, p{
+    font-family: "Verdana", sans-serif;
+    color: #008080; 
+    text-align: center;
+}
+img.logo {
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+p.link{
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+p.senha {
+    margin-right: -10px;
+    margin-bottom: 30px;
+}
+input.btnEntrar {
+    background: #48D1CC;
+    color: white;
+    border-radius: 20px;
+    border-color: #48D1CC;
+    height: 26px;
+    width: 105px;
+    cursor: pointer;
+}
+input.btnLimpar{
+    background: #48D1CC;
+    color: white;
+    border-radius: 20px;
+    border-color: #48D1CC;
+    height: 26px;
+    width: 120px;
+    cursor: pointer;
+}
+.link{
+    color: #48D1CC;
+    font-size: 19px;
+}
+.cad{
+    text-decoration: none;
+    color: #008080;
+    font-size: 19px;
+    cursor: pointer;
+}

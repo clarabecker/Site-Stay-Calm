@@ -1,0 +1,54 @@
+body {
+    background-color: #E0FFFF;
+}
+div{
+    width: 500px;
+    min-height: 200px;    
+    position: relative;  
+    padding: 20px 0px 20px 40px;
+    background-color: white;
+    margin-left: 450px; 
+    margin-bottom: 50px;
+    font-family: "Verdana", sans-serif;
+    color: #008080; 
+    text-align: justify;
+    border-radius: 20px;
+}
+h2{
+    margin-top: -80px;
+    margin-left: 580px;
+    margin-bottom: 60px;
+    font-family: "Verdana", sans-serif;
+    color: #008080; 
+}
+img.logo {
+    display: block;
+    margin-top: 25px;
+    margin-left: 1100px;
+    margin-right: auto 
+}
+input[type="file"] {
+   display: none;
+}
+label{
+    text-align: center;
+    margin-top: 25px;
+    padding: 5px 5px 10px;
+    width: 250px;
+    background: #48D1CC;
+    color: white;
+    border-radius: 20px;
+    display: block;
+    cursor: pointer;
+}
+input.btn {
+    margin-bottom: 10px;
+    background: #48D1CC;
+    color: white;
+    border-radius: 20px;
+    border-color: #008080;
+    height: 30px;
+    width: 105px;
+    text-shadow: none;
+    cursor: pointer;
+}

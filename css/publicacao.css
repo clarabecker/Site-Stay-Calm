@@ -1,0 +1,103 @@
+body {
+    background-color: #E0FFFF;
+}
+h1{
+    margin-left: 50px;
+    margin-top: 20px;
+    font-family: "Verdana", sans-serif;
+    color: #008080; 
+    text-align: justify;
+}
+ p{
+    font-family: "Verdana", sans-serif;
+    color: #008080; 
+    text-align: justify;
+    line-height: 1.5;
+}
+p.blocotext1, p.blocotext2, h2, p.blocotext3, form.upload {
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 1000px;
+}
+img.logo {
+    display: block;
+    margin-top: 0;
+    margin-left: 570px;
+    margin-right: 500px; 
+}
+img.usuario {
+    max-width: 95px;
+    max-height: 95px;
+    width: auto;
+    height: auto;
+    margin-top: 50px;
+    margin-left: 50px; 
+    border-radius: 30px;
+}
+p.nomeusuario {
+    color: black;
+    margin-left: 50px;
+    margin-right: 15px;
+    padding: 5px 5px 10px 10px;
+    background-color: #48D1CC;
+    border-radius: 20px;
+}
+p.publicacao {
+    color: black;
+    background-color: white;
+    padding: 25px 10px 60px;
+    border-radius: 20px;
+    margin-right: 15px;
+    margin-left: 155px;
+    margin-top: -120px;
+    margin-bottom: 30px;  
+}
+p.blocotext4{
+    margin-left: 420px;
+    margin-right: 500px; 
+    margin-bottom: 40px;
+    font-size: 20px;
+    color: #008080;
+}
+.btnSup {
+    margin-left: 1300px;
+    margin-top: 15px;
+    background: #48D1CC;
+    color: white;
+    border-radius: 20px;
+    border-color: #48D1CC;
+    height: 25px;
+    width: 105px;
+    cursor: pointer;
+}
+.btnEnviar {
+    background: #48D1CC;
+    color: white;
+    border-radius: 20px;
+    border-color: #48D1CC;
+    height: 25px;
+    width: 105px;
+    cursor: pointer;
+}
+.btnVoltar {
+    margin-left: 1300px;
+    margin-top: 10px;
+    background: #48D1CC;
+    color: white;
+    border-radius: 20px;
+    border-color: #48D1CC;
+    height: 25px;
+    width: 105px;
+    cursor: pointer;
+}
+.btnExc {
+    margin-left: 1200px;
+    margin-top: 10px;
+    background: #48D1CC;
+    color: white;
+    border-radius: 20px;
+    border-color: #48D1CC;
+    height: 30px;
+    width: 105px;
+    cursor: pointer;
+}
