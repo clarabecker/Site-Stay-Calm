@@ -1,4 +1,4 @@
-Este projeto realização de um site para estudantes do ensino médio que 
+Este projeto é a realização de um site para estudantes do ensino médio que 
 lidam com ansiedade escolar. O projeto tem como objetivo o desenvolvimento do site 
 para estudantes do Campus Avançado Sombrio. Para isso foram utilizados como 
 métodos a modelagem no banco de dados pelo modelo entidade relacionamento, 
