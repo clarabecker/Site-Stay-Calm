@@ -1,4 +1,4 @@
-**Site Stay Calm**
+#Site Stay Calm 
 
 Este projeto é a realização de um site para estudantes do ensino médio que 
 lidam com ansiedade escolar. O projeto tem como objetivo o desenvolvimento do site 
